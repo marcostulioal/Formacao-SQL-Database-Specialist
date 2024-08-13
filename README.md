@@ -10,7 +10,7 @@ O projeto consiste na criação de um modelo de banco de dados relacional para u
 
 A modelagem foi feita utilizando diagramas de Entidade-Relacionamento (ER), conforme a imagem abaixo:
 
-
+![eccommerce](https://github.com/user-attachments/assets/99f0f19e-3889-42fd-baf8-acedee92ad29)
 
 ### Entidades Principais
 
